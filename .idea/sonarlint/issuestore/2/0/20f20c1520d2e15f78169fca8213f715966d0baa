@@ -1,0 +1,80 @@
+
+`
+java:S1192N"JDefine a constant instead of duplicating this literal "Segoe UI" 10 times.(Äû½ô
+?
+java:S1604Œ"(Make this anonymous inner class a lambda(•à‚Ò
+D
+java:S1604"(Make this anonymous inner class a lambda(Æ ®¢ùÿÿÿÿ
+?
+java:S1604±"(Make this anonymous inner class a lambda(«ğãã
+D
+java:S1604‚"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş Ò­øÿÿÿÿ
+k
+java:S2095¢"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¹§ØÏıÿÿÿÿ
+n
+java:S1450Š"WRemove the "btnLogin" field and declare it as a local variable in the relevant methods.(Œ¨ëå
+p
+java:S1450‹"ZRemove the "btnRegistro" field and declare it as a local variable in the relevant methods.(À›â7
+p
+java:S1450Œ"YRemove the "jCheckBox1" field and declare it as a local variable in the relevant methods.(×µ„Ò
+r
+java:S1450"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+s
+java:S1450"WRemove the "jLabel11" field and declare it as a local variable in the relevant methods.(‰Ó‚©øÿÿÿÿ
+n
+java:S1450"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+r
+java:S1450‘"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+r
+java:S1450’"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450“"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450”"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+m
+java:S1450•"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450–"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450—"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450˜"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+P
+java:S1161E":Add the "@Override" annotation above this method signature(œúüæ
+P
+java:S1161b":Add the "@Override" annotation above this method signature(†ŒË³
+F
+java:S1172¾"*Remove this unused method parameter "evt".(ì‘ÔÁúÿÿÿÿ
+F
+java:S1172Â"*Remove this unused method parameter "evt".(÷Ü¦ßúÿÿÿÿ
+W
+java:S2130Å";Use "Float.parseFloat" for this string-to-float conversion.(¯ÌÛüÿÿÿÿ
+u
+java:S2142É"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+?	java:S108É")Either remove or fill this block of code.(”ı¾
+F
+java:S1172Ï"*Remove this unused method parameter "evt".(íÜßóûÿÿÿÿ
+N
+java:S1135Ğ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172Ó"*Remove this unused method parameter "evt".(Ëöš¿
+N
+java:S1135Ô"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+A
+java:S1172Û"*Remove this unused method parameter "evt".(¾¥œš
+N
+java:S1135Ü"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1197é"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147ø"ECombine this catch with the one at line 246, which has the same body.(¨¦Š½
+\
+java:S2147ú"ECombine this catch with the one at line 248, which has the same body.(ã€ 
+[
+java:S2147ü"ECombine this catch with the one at line 250, which has the same body.(ñÎ¯%
+K
+java:S1905¡"4Remove this unnecessary cast to "PreparedStatement".(æ‘Æˆ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(¢Â×ñûÿÿÿÿ

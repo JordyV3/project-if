@@ -1,0 +1,88 @@
+
+`
+java:S1192Z"JDefine a constant instead of duplicating this literal "Segoe UI" 11 times.(Äû½ô
+z
+java:S1192™"cDefine a constant instead of duplicating this literal "__________________________________" 5 times.(Ù‹Çğ
+>
+java:S1604g"(Make this anonymous inner class a lambda(Ùœ€Û
+D
+java:S1604Ô"(Make this anonymous inner class a lambda(Š·¤æûÿÿÿÿ
+D
+java:S1604Ì"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(áÕ­Œÿÿÿÿÿ
+f
+java:S2095–"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(„Ç«ª
+q
+java:S1450Ô"ZRemove the "btnRegister" field and declare it as a local variable in the relevant methods.(ƒŒÇé
+q
+java:S1450Õ"ZRemove the "btnRegresar" field and declare it as a local variable in the relevant methods.(ÏÖ
+r
+java:S1450Ö"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿ
+s
+java:S1450×"WRemove the "jLabel10" field and declare it as a local variable in the relevant methods.(¼õò†şÿÿÿÿ
+n
+java:S1450Ø"WRemove the "jLabel12" field and declare it as a local variable in the relevant methods.(¶“¡
+s
+java:S1450Ù"WRemove the "jLabel15" field and declare it as a local variable in the relevant methods.(³şâçøÿÿÿÿ
+s
+java:S1450Ú"WRemove the "jLabel16" field and declare it as a local variable in the relevant methods.(š¼ª¯üÿÿÿÿ
+n
+java:S1450Û"WRemove the "jLabel17" field and declare it as a local variable in the relevant methods.(„Ç›Ä
+m
+java:S1450Ü"WRemove the "jLabel18" field and declare it as a local variable in the relevant methods.(†«=
+s
+java:S1450İ"WRemove the "jLabel19" field and declare it as a local variable in the relevant methods.(Şù’±ıÿÿÿÿ
+r
+java:S1450Ş"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿ
+s
+java:S1450ß"WRemove the "jLabel20" field and declare it as a local variable in the relevant methods.(ëƒß›úÿÿÿÿ
+r
+java:S1450à"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿ
+m
+java:S1450á"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ã
+m
+java:S1450â"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®
+m
+java:S1450ã"VRemove the "jLabel8" field and declare it as a local variable in the relevant methods.(å»«¢
+r
+java:S1450ä"VRemove the "jLabel9" field and declare it as a local variable in the relevant methods.(Ì’óĞşÿÿÿÿ
+r
+java:S1450å"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿ
+r
+java:S1450æ"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿ
+?
+java:S1172""*Remove this unused method parameter "evt".(×¥Õx
+V
+java:S2130%";Use "Float.parseFloat" for this string-to-float conversion.(¯ÌÛüÿÿÿÿ
+t
+java:S2142)"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾
+>	java:S108)")Either remove or fill this block of code.(”ı¾
+P
+java:S1161w":Add the "@Override" annotation above this method signature(†ŒË³
+F
+java:S1172÷"*Remove this unused method parameter "evt".(ì‘ÔÁúÿÿÿÿ
+F
+java:S1172û"*Remove this unused method parameter "evt".(ÒìÀıÿÿÿÿ
+N
+java:S1135ü"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+F
+java:S1172ƒ"*Remove this unused method parameter "evt".(ƒâ»ôøÿÿÿÿ
+N
+java:S1135„"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿ
+S
+java:S1854"7Remove this useless assignment to local variable "res".(ÜÊ¤§ùÿÿÿÿ
+K
+java:S1905•"4Remove this unnecessary cast to "PreparedStatement".(æ‘Æˆ
+D
+java:S1481"(Remove this unused "res" local variable.(ÜÊ¤§ùÿÿÿÿ
+T	java:S106¬"9Replace this use of System.out or System.err by a logger.(¢Â×ñûÿÿÿÿ
+F
+java:S1197³"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿ
+\
+java:S2147Â"ECombine this catch with the one at line 320, which has the same body.(¨¦Š½
+\
+java:S2147Ä"ECombine this catch with the one at line 322, which has the same body.(ã€ 
+[
+java:S2147Æ"ECombine this catch with the one at line 324, which has the same body.(ñÎ¯%
+J
+java:S1144""5Remove this unused private "formWindowOpened" method.(×¥Õx
